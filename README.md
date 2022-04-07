@@ -1,7 +1,8 @@
 # Kodluyoruz İlk Repo
+https://app.patika.dev/nes patika
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-![image](https://raw.githubusercontent.com/1neslihan/kodluyoruzilkrepo/main/1neslihan.PNG)
+![image](https://github.com/1neslihan/kodluyoruzilkrepo)
 
 # Installation
 Öncelikle projeyi clonelayın.
